@@ -4,5 +4,5 @@ In this project, I build a convolutional neural network (CNN) that can classify 
 The code is written in Python 3 and Keras with Tensorflow backend all presented in Jupyter Notebook. I used AWS EC2 gpu instance for training the model.
 
 
-
+I done thi project wwith ease because of the training model associated with course from udacity
 
